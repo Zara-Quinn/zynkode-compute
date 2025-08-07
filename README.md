@@ -60,3 +60,5 @@ graph.execute()
 MIT
 
 # Improvement: Update README with multi-GPU usage examples
+
+# Improvement: Update README with benchmark results section
